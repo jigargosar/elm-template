@@ -1,0 +1,16 @@
+dependencies:
+  ramda: 0.27.0
+  tachyons: 4.11.1
+lockfileVersion: 5.1
+packages:
+  /ramda/0.27.0:
+    dev: false
+    resolution:
+      integrity: sha512-pVzZdDpWwWqEVVLshWUHjNwuVP7SfcmPraYuqocJp1yo2U1R7P+5QAfDhdItkuoGqIBnBYrtPp7rEPqDn9HlZA==
+  /tachyons/4.11.1:
+    dev: false
+    resolution:
+      integrity: sha512-n5zIZ8i8kZ8vz05vX1BdvkP8b9ufsMeSRmdqTuUtz5rlNxr03nntiZMc/HTADIsPYZj/wZJDJglxV0/yvvaiZA==
+specifiers:
+  ramda: ^0.27.0
+  tachyons: ^4.11.1

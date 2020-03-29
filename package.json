@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Jigar Gosar <jigar.gosar@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.0",
+    "tachyons": "^4.11.1"
+  }
 }
